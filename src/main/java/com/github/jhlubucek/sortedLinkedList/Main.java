@@ -35,6 +35,7 @@ public class Main {
 
         //remove element
         intList.remove(Integer.valueOf(4));
+        intList.remove(4);
 
         //add collection
         List<Integer> elementsToAdd = Arrays.asList(1, 10);
